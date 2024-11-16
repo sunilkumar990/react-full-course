@@ -1,6 +1,6 @@
 import './App.css'
-import Login from './components/Login'
-import Profile from './components/Profile'
+import Login from './componants/Login'
+import Profile from './componants/Profile'
 import UserContextProvider from './context/UserContextProvider'
 
 function App() {
